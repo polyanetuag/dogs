@@ -9,6 +9,7 @@ import User from "./Components/User/User";
 import Photo from "./Components/Photo/Photo";
 import { UserStorage } from "./UserContext";
 import UserProfile from "./Components/User/UserProfile";
+import NotFound from "./Components/NotFound";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route path="account/*" element={<User />} />
             <Route path="photo/:id" element={<Photo />} />
             <Route path="profile/:user" element={<UserProfile />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
           <Footer />
         </UserStorage>
