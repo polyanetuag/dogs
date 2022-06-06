@@ -28,15 +28,15 @@ const UserHeaderNav = () => {
         ></button>
       )}
       <nav className={`${mobile ? styles.navMobile : styles.nav} ${mobileMenu && styles.navMobileActive}`}>
-        <NavLink to="/account" end activeclassname={styles.active}>
+        <NavLink to="/account" end activeClassName={styles.active}>
           <MyFeed />
           {mobile && "Minhas Fotos"}
         </NavLink>
-        <NavLink to="/account/statistics" activeclassname={styles.active}>
+        <NavLink to="/account/statistics" activeClassName={styles.active}>
           <MyStatistics />
           {mobile && "Estatísticas"}
         </NavLink>
-        <NavLink to="/account/post" activeclassname={styles.active}>
+        <NavLink to="/account/post" activeClassName={styles.active}>
           <AddPhoto />
           {mobile && "Adicionar Foto"}
         </NavLink>
