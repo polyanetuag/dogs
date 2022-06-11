@@ -109,7 +109,6 @@ export function PHOTO_DELETE(id) {
     options: {
       method: "DELETE",
       headers: {
-       
         Authorization: "Bearer " + window.localStorage.getItem("token"),
       },
     },
@@ -138,6 +137,19 @@ export function PASSWORD_RESET(body) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify(body),
+    }
+  }
+}
+
+export function STATS_GET() {
+  return {
+    url: API_URL + "/api/stats", 
+    options: {
+       method: "GET",
+        headers: {
+          Authorization: "Bearer " + window.localStorage.getItem("token"),
+        },
+         
     }
   }
 }
