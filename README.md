@@ -21,6 +21,7 @@ O projeto Dogs consiste em uma rede social para cães.
 ## 🚀 Tecnologias utilizadas:
 
 - ReactJS
+- css modules
 - Biblioteca Victory (usada para os gráficos e visualização de dados)
 
 
