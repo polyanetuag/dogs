@@ -1,6 +1,8 @@
 <div align="center">
-<h1 >Dogs</h1>
+
+<img justify-content="center" width= '100' src="./src/Assets/dogs.svg" />
 <img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" />
+<h1 >Dogs</h1>
 </div>
 
 <h3 align="center">  
