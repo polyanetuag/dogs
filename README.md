@@ -1,8 +1,7 @@
 <div align="center">
-
-<img justify-content="center" width= '100' src="./src/Assets/dogs.svg" />
-<img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" />
-<h1 >Dogs</h1>
+  <img justify-content="center" width= '100' src="./src/Assets/dogs.svg" />
+  <img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" />
+  <h1>Dogs</h1>
 </div>
 
 <h3 align="center">  
@@ -18,7 +17,7 @@
 
 O projeto Dogs é uma rede social para cães.
 
-Nela, é possível adicionar fotos, fazer comentários e visualizar outros feeds de usuários, além de um gráfico de engajamento sobre cada feed seu.
+Nela, é possível adicionar fotos, fazer comentários e visualizar outros feeds de usuários, além de obter um gráfico de engajamento sobre cada feed seu.
 
 ## 🚀 Tecnologias utilizadas:
 
