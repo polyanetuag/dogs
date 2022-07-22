@@ -1,7 +1,7 @@
 <div align="center">
-  <img justify-content="center" width= '100' src="./src/Assets/dogs.svg" style="margin-bottom: 22px" />
+  <img justify-content="center" width= '100' src="./src/Assets/dogs.svg" />
  
-  <img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" />
+  <img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" style="margin-top: 22px"/>
   <h1>Dogs</h1>
 </div>
 
