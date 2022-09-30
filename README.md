@@ -22,7 +22,7 @@ Nela, é possível adicionar fotos, fazer comentários e visualizar outros feeds
 ## 🚀 Tecnologias utilizadas:
 
 - ReactJS
-- css modules
+- CSS Modules
 - Biblioteca Victory (usada para os gráficos e visualização de dados)
 
 ## ⏱ Como executar
