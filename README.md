@@ -11,7 +11,7 @@
   </p>
 </h3>
 
-<img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" style="margin-top: 22px"/>
+<img justify-content="center" width= '800' src="./src/Assets/ezgif.com-gif-maker.gif" />
 
 ## 📚 Sobre
 
