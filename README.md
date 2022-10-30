@@ -15,7 +15,7 @@
 
 ## 📚 Sobre
 
-O projeto Dogs consiste em uma rede social para cães. Nela, é possível adicionar fotos, fazer comentários e visualizar outros feeds de usuários, além de obter um gráfico de engajamento sobre cada feed seu.
+O projeto Dogs consiste em uma rede social para cães, em que é possível adicionar fotos, fazer comentários e visualizar outros feeds de usuários, além de obter um gráfico de engajamento sobre cada feed seu.
 
 ## 🚀 Tecnologias utilizadas:
 
