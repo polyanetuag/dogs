@@ -15,7 +15,7 @@
 
 ## 📚 Sobre
 
-O projeto ***Dogs*** consiste em uma rede social para cães, onde é possível adicionar fotos, fazer comentários, curtir e visualizar também outros feeds de usuários. 
+O projeto ***Dogs*** consiste em uma rede social para cães, onde é possível adicionar fotos, fazer comentários, curtir e visualizar outros feeds de usuários. 
 
 Permite também a visualização de um gráfico para acompanhar o engajamento sobre cada feed postado na página social.
 
