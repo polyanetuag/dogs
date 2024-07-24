@@ -17,7 +17,7 @@
 
 O projeto ***Dogs*** é uma rede social para cães, onde é possível adicionar fotos, fazer comentários, curtir e visualizar outros feeds de pets. 
 
-Permite também a visualização de um gráfico para acompanhar o engajamento sobre cada feed adicionado na página social.
+Permite também acompanhar em forma de gráfico, o engajamento sobre cada feed adicionado na página social.
 
 ## 🚀 Tecnologias utilizadas:
 
