@@ -21,7 +21,7 @@ Permite também acompanhar em forma de gráfico, o engajamento sobre cada feed a
 
 ## 🚀 Tecnologias utilizadas:
 
-- ReactJS
+- [ReactJS](https://react.dev/)
 - CSS Modules
 - Biblioteca Victory (usada para os gráficos e visualização de dados)
 
