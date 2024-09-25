@@ -22,7 +22,7 @@ Permite também acompanhar em forma de gráfico, o engajamento sobre cada feed a
 ## 🚀 Tecnologias utilizadas:
 
 - [ReactJS](https://react.dev/)
-- CSS Modules
+- [CSS Modules](https://github.com/css-modules/css-modules)
 - Biblioteca Victory (usada para os gráficos e visualização de dados)
 
 ## ⏱ Como executar
