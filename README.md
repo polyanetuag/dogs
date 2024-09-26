@@ -23,7 +23,7 @@ Permite também acompanhar em forma de gráfico, o engajamento sobre cada feed a
 
 - [ReactJS](https://react.dev/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
-- Biblioteca Victory (usada para os gráficos e visualização de dados)
+- [Biblioteca Victory](https://commerce.nearform.com/open-source/victory/docs) (usada para os gráficos e visualização de dados)
 
 ## ⏱ Como executar
 
