@@ -17,7 +17,7 @@
 
 O projeto ***Dog's Media*** é uma rede social para cães, em que é possível adicionar fotos, fazer comentários, curtir e visualizar feeds de outros pets. 
 
-Permite também acompanhar em forma de gráfico, o engajamento sobre cada feed adicionado na página social.
+Permite também acompanhar, em forma de gráfico, o engajamento sobre cada feed adicionado na página social.
 
 ## 🚀 Tecnologias utilizadas:
 
