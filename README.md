@@ -40,7 +40,6 @@ $ yarn
 # Iniciar o servidor
 $ yarn start
 
-# O servidor será inicializado em <http://localhost:3000>
 ```
 
 ## 📝 Licença
