@@ -23,7 +23,7 @@ Permite também acompanhar, em forma de gráfico, o engajamento sobre cada feed 
 
 - [ReactJS](https://react.dev/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
-- [Victory](https://commerce.nearform.com/open-source/victory/docs) - gráficos/visualização de dados
+- [Victory](https://commerce.nearform.com/open-source/victory/docs) 
 
 ## ⏱ Como executar
 
